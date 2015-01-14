@@ -17,3 +17,5 @@ http://localhost:8000/
 and you should see this:
 
 ![WebGL Earth Offline](https://cloud.githubusercontent.com/assets/59284/5442815/cc863142-849c-11e4-8b1b-47b78eafc3ab.jpg)
+
+If you can't start a local web server, then an alternative is to turn off the security restrictions of your web browser as described at: https://github.com/mrdoob/three.js/wiki/How-to-run-things-locally
