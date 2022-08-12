@@ -4,7 +4,7 @@
  * Copyright (C) 2014 - Klokan Technologies GmbH
  * http://www.webglearth.org/
  * Powered by Cesium (http://www.webglearth.org/cesium). Apache 2.0 license.
- * Offline API modifications by jotenko
+ * Offline API modifications by jpseara
  */
 
 //------------------------------------------------------------------------------
